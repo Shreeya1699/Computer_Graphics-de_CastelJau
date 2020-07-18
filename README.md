@@ -24,3 +24,5 @@ Few Important Keys:
     q = Quit Window
     
 ## Few Examples:
+![alt text](https://github.com/Shreeya1699/Computer_Graphics-de_CastelJau/blob/master/output/1.png)
+![alt text](https://github.com/Shreeya1699/Computer_Graphics-de_CastelJau/blob/master/output/2.png)
